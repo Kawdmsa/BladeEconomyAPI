@@ -278,9 +278,7 @@ The plugin automatically:
 
 ### Requirements
 
-- PowerNukkitX 1.20.40+
-- Java 17+
-- DataManager plugin (automatically loaded)
+- DataManager plugin 
 
 ---
 
@@ -556,10 +554,9 @@ public class ScoreboardManager {
 
 ### Требования
 
-- PowerNukkitX 1.20.40+
-- Java 17+
-- DataManager плагин (автоматически загружается)
+- DataManager плагин
 
 ### Лицензия
+
 
 MIT License 
