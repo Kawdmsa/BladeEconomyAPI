@@ -1,0 +1,9 @@
+name: BladeEconomy
+main: usa.liez.BladeEconomy
+version: 1.0.0
+api: 1.0.0
+author: Blade
+description: API плагин экономики с двумя валютами (монеты и аметисты) и SQLite базой данных
+
+# Этот плагин предоставляет только API для других плагинов
+# Используйте API для создания собственных команд и функций 

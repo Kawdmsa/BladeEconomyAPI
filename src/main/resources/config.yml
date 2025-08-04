@@ -1,0 +1,6 @@
+# BladeEconomy Configuration
+# Конфигурация API плагина экономики
+
+# Начальный баланс для новых игроков
+starting_coins: 0.0
+starting_amethysts: 0.0
